@@ -18,8 +18,8 @@ Este proyecto es una herramienta de línea de comandos que verifica si una contr
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/pwned-password-checker.git
-   cd pwned-password-checker
+   git clone https://github.com/agostinasvenson/checkMyPassword.git
+   cd checkMyPassword
    ```
 
 2. **Instala las dependencias necesarias:**
